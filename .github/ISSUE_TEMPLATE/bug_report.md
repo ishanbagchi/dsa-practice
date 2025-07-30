@@ -7,22 +7,29 @@ assignees: ''
 ---
 
 ## 🐛 Bug Description
+
 A clear and concise description of what the bug is.
 
 ## 📁 File Location
+
 Which file contains the bug?
-- **File**: `path/to/file.js`
-- **Function**: `functionName`
-- **Line**: (if known)
+
+-   **File**: `path/to/file.js`
+-   **Function**: `functionName`
+-   **Line**: (if known)
 
 ## 🔍 Expected Behavior
+
 What should happen?
 
 ## ❌ Actual Behavior
+
 What actually happens?
 
 ## 🧪 Test Case
+
 Provide a test case that reproduces the bug:
+
 ```javascript
 // Input that causes the bug
 const input = ...;
@@ -33,8 +40,10 @@ const actual = functionName(input);
 ```
 
 ## 🖥️ Environment
-- **Node.js version**: 
-- **Operating System**: 
+
+-   **Node.js version**:
+-   **Operating System**:
 
 ## 📝 Additional Context
+
 Add any other context about the problem here.

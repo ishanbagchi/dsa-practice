@@ -150,10 +150,11 @@ Each problem file includes:
 ## 🤝 Contributing
 
 We welcome contributions! Whether you want to:
-- Add new problem solutions
-- Improve existing solutions
-- Fix bugs or enhance documentation
-- Suggest new categories
+
+-   Add new problem solutions
+-   Improve existing solutions
+-   Fix bugs or enhance documentation
+-   Suggest new categories
 
 Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a pull request.
 
