@@ -147,6 +147,16 @@ Each problem file includes:
 3. **Edge Cases**: Consider boundary conditions and edge cases in your solutions
 4. **Practice**: Solve similar problems to reinforce pattern understanding
 
+## 🤝 Contributing
+
+We welcome contributions! Whether you want to:
+- Add new problem solutions
+- Improve existing solutions
+- Fix bugs or enhance documentation
+- Suggest new categories
+
+Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a pull request.
+
 ## 📝 Notes
 
 -   All solutions are optimized for readability and performance
