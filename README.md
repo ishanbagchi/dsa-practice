@@ -6,7 +6,7 @@ A collection of LeetCode problem solutions organized by data structure and algor
 
 ```
 dsa/
-├── hash-map/           # Hash Map & Hash Table problems
+├── hash-map/          # Hash Map & Hash Table problems
 ├── heap/              # Heap & Priority Queue problems
 ├── sliding-window/    # Sliding Window technique problems
 ├── stack/             # Stack data structure problems
