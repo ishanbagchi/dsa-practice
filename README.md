@@ -20,15 +20,18 @@ dsa/
 
 Problems that utilize hash maps/hash tables for efficient lookups and storage.
 
-| Problem                            | Difficulty | LeetCode Link                                |
-| ---------------------------------- | ---------- | -------------------------------------------- |
-| [Two Sum](./hash-map/1-two-sum.js) | Easy       | [#1](https://leetcode.com/problems/two-sum/) |
+| Problem                                                              | Difficulty | LeetCode Link                                                  |
+| -------------------------------------------------------------------- | ---------- | -------------------------------------------------------------- |
+| [Two Sum](./hash-map/1-two-sum.js)                                   | Easy       | [#1](https://leetcode.com/problems/two-sum/)                   |
+| [Top K Frequent Elements](./hash-map/347-top-k-frequent-elements.js) | Medium     | [#347](https://leetcode.com/problems/top-k-frequent-elements/) |
 
 **Key Concepts:**
 
 -   O(1) average time complexity for lookups
 -   Space-time tradeoffs
 -   Complement pattern
+-   Frequency counting
+-   Bucket sort technique
 
 ---
 
@@ -101,7 +104,7 @@ Problems using the sliding window technique for subarray/substring optimization.
 ## 🎯 Problem Difficulty Distribution
 
 -   **Easy**: 3 problems
--   **Medium**: 4 problems
+-   **Medium**: 5 problems
 -   **Hard**: 1 problem
 
 ## 🚀 How to Use
@@ -130,11 +133,11 @@ Each problem file includes:
 
 ## 📈 Progress Tracking
 
-**Total Problems Solved**: 8
+**Total Problems Solved**: 9
 
 **By Category**:
 
--   Hash Map: 1/∞
+-   Hash Map: 2/∞
 -   Two Pointers: 2/∞
 -   Stack: 2/∞
 -   Heap: 1/∞
