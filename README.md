@@ -8,6 +8,7 @@ A collection of LeetCode problem solutions organized by data structure and algor
 dsa/
 ├── hash-map/          # Hash Map & Hash Table problems
 ├── heap/              # Heap & Priority Queue problems
+├── search/            # Search algorithm problems
 ├── sliding-window/    # Sliding Window technique problems
 ├── stack/             # Stack data structure problems
 ├── two-pointers/      # Two Pointers technique problems
@@ -32,6 +33,24 @@ Problems that utilize hash maps/hash tables for efficient lookups and storage.
 -   Complement pattern
 -   Frequency counting
 -   Bucket sort technique
+
+---
+
+### 🔍 Search
+
+Problems using various search algorithms for efficient data retrieval.
+
+| Problem                                        | Difficulty | LeetCode Link                                        |
+| ---------------------------------------------- | ---------- | ---------------------------------------------------- |
+| [Binary Search](./search/704-binary-search.js) | Easy       | [#704](https://leetcode.com/problems/binary-search/) |
+
+**Key Concepts:**
+
+-   Binary search: O(log n) time complexity
+-   Linear search: O(n) time complexity
+-   Divide and conquer approach
+-   Sorted array requirement (for binary search)
+-   Search space reduction
 
 ---
 
@@ -103,7 +122,7 @@ Problems using the sliding window technique for subarray/substring optimization.
 
 ## 🎯 Problem Difficulty Distribution
 
--   **Easy**: 3 problems
+-   **Easy**: 4 problems
 -   **Medium**: 5 problems
 -   **Hard**: 1 problem
 
@@ -133,11 +152,12 @@ Each problem file includes:
 
 ## 📈 Progress Tracking
 
-**Total Problems Solved**: 9
+**Total Problems Solved**: 10
 
 **By Category**:
 
 -   Hash Map: 2/∞
+-   Search: 1/∞
 -   Two Pointers: 2/∞
 -   Stack: 2/∞
 -   Heap: 1/∞
