@@ -6,6 +6,7 @@ A collection of LeetCode problem solutions organized by data structure and algor
 
 ```
 dsa/
+├── greedy/            # Greedy algorithm problems
 ├── hash-map/          # Hash Map & Hash Table problems
 ├── heap/              # Heap & Priority Queue problems
 ├── search/            # Search algorithm problems
@@ -25,6 +26,7 @@ Problems that utilize hash maps/hash tables for efficient lookups and storage.
 | -------------------------------------------------------------------- | ---------- | -------------------------------------------------------------- |
 | [Two Sum](./hash-map/1-two-sum.js)                                   | Easy       | [#1](https://leetcode.com/problems/two-sum/)                   |
 | [Top K Frequent Elements](./hash-map/347-top-k-frequent-elements.js) | Medium     | [#347](https://leetcode.com/problems/top-k-frequent-elements/) |
+| [Time Based Key-Value Store](./hash-map/981-time-based-key-value-store.js) | Medium | [#981](https://leetcode.com/problems/time-based-key-value-store/) |
 
 **Key Concepts:**
 
@@ -43,6 +45,24 @@ Problems using various search algorithms for efficient data retrieval.
 | Problem                                        | Difficulty | LeetCode Link                                        |
 | ---------------------------------------------- | ---------- | ---------------------------------------------------- |
 | [Binary Search](./search/704-binary-search.js) | Easy       | [#704](https://leetcode.com/problems/binary-search/) |
+| [Maximum Count of Positive Integer and Negative Integer](./search/2529-maximum-count-of-positive-integer-and-negative-integer.js) | Easy | [#2529](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) |
+---
+
+### 💡 Greedy
+
+Problems that use greedy algorithms, often with sorting or selection strategies.
+
+| Problem                                              | Difficulty | LeetCode Link                                         |
+| ---------------------------------------------------- | ---------- | ----------------------------------------------------- |
+| [Stone Game VI](./greedy/1686-stone-game-vi.js)      | Medium     | [#1686](https://leetcode.com/problems/stone-game-vi/) |
+
+**Key Concepts:**
+
+-   Greedy choice property
+-   Sorting for optimal selection
+-   Local vs global optimum
+-   Game theory
+
 
 **Key Concepts:**
 
@@ -122,8 +142,8 @@ Problems using the sliding window technique for subarray/substring optimization.
 
 ## 🎯 Problem Difficulty Distribution
 
--   **Easy**: 4 problems
--   **Medium**: 5 problems
+-   **Easy**: 6 problems
+-   **Medium**: 7 problems
 -   **Hard**: 1 problem
 
 ## 🚀 How to Use
@@ -152,12 +172,13 @@ Each problem file includes:
 
 ## 📈 Progress Tracking
 
-**Total Problems Solved**: 10
+**Total Problems Solved**: 14
 
 **By Category**:
 
--   Hash Map: 2/∞
--   Search: 1/∞
+-   Greedy: 1/∞
+-   Hash Map: 3/∞
+-   Search: 2/∞
 -   Two Pointers: 2/∞
 -   Stack: 2/∞
 -   Heap: 1/∞

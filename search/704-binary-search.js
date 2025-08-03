@@ -1,7 +1,7 @@
 /**
  * https://leetcode.com/problems/binary-search/
  *
- * * DS - Sorting, Array
+ * * DS - Binary Search, Array
  *
  * @param {number[]} nums
  * @param {number} target
